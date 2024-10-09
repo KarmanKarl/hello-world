@@ -1,2 +1,2 @@
 # hello-world
-big-ideas
+Github is cool
